@@ -1,0 +1,13 @@
+#MCU 8051 IDE Build and Output Files
+*.adf
+*.bin
+*.hex
+*.lst
+*.obj
+*.map
+*.rpt
+*.bak
+
+# Temp and Backup Files
+*~
+
